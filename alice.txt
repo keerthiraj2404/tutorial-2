@@ -1,2 +1,3 @@
 Hi welcome to alice.txt file
 hi jai siram
+well I am doing better now in git related things
